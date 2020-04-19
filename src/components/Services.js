@@ -13,7 +13,7 @@ return(
                         <div className="mt-5">
                             <i className="fas fa-4x fa-gem text-primary mb-4"></i>
                             <h3 className="h4 mb-2">Estrategia de producto</h3>
-                            <p className="text-muted mb-0">Para nosotros, la estrategi de producto es una combinación de perspicacia comercial, análisis, experiencia del cliente, tecnología y diseño. A través de estos aspectos y nuestra experiencia, aprovechamos estos conocimientos para elegir el producto adecuado para nuestros clientes.</p>
+                            <p className="text-muted mb-0">Para nosotros, la estrategia de producto es una combinación de perspicacia comercial, análisis, experiencia del cliente, tecnología y diseño. A través de estos aspectos y nuestra experiencia, aprovechamos estos conocimientos para elegir el producto adecuado para nuestros clientes.</p>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-6 text-center">

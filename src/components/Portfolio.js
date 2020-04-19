@@ -7,7 +7,7 @@ return(
             <div className="container-fluid p-0">
                 <div className="row no-gutters">
                     <div className="col-lg-4 col-sm-6">
-                        <a className="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg"
+                        <a className="portfolio-box" href="https://maisonmanila.com/" target="_blank"
                             ><img className="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="" />
                             <div className="portfolio-box-caption">
                             <a href="https://maisonmanila.com/" target="_blank">
@@ -18,7 +18,7 @@ return(
                         
                     </div>
                     <div className="col-lg-4 col-sm-6">
-                        <a className="portfolio-box" href="assets/img/portfolio/fullsize/2.jpg"
+                        <a className="portfolio-box" 
                             ><img className="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="" />
                             <div className="portfolio-box-caption">
                                 <div className="project-category text-white-50"></div>
@@ -27,7 +27,7 @@ return(
                         
                     </div>
                     <div className="col-lg-4 col-sm-6">
-                        <a className="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg"
+                        <a className="portfolio-box" href="https://clone-airbnb.netlify.com/" target="_blank"
                             ><img className="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="" />
                             <div className="portfolio-box-caption">
                             <a href="https://clone-airbnb.netlify.com/" target="_blank">
